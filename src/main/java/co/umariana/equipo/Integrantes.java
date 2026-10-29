@@ -25,8 +25,9 @@ public final class Integrantes {
     public static List<Tarjeta> tarjetas() {
         List<Tarjeta> lista = new ArrayList<>();
 
-        lista.add(new Tarjeta("cbotina", "Carlos Botina", "Bienvenidos al trabajo en equipo. Agreguen su tarjeta!", "#FFD166"));
+        lista.add(new Tarjeta("F-Hoyos", "Felipe Hoyos", "Gana atraves de tus acciones, nunca por medio de argumentos", "#BF260A"));
         // >>> AGREGUE SU TARJETA DEBAJO DE ESTA LÍNEA <<<
+        
 
         return lista;
     }
