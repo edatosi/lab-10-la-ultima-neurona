@@ -27,7 +27,8 @@ public final class Integrantes {
 
         lista.add(new Tarjeta("F-Hoyos", "Felipe Hoyos", "Gana atraves de tus acciones, nunca por medio de argumentos", "#BF260A"));
         // >>> AGREGUE SU TARJETA DEBAJO DE ESTA LÍNEA <<<
-        
+          lista.add(new Tarjeta("luihidalgo125-stack", "Luis Hidalgo", "Cree que puedes y ya habras recorrido la mitad del camino", "#bf0a8f"));
+      
 
         return lista;
     }
