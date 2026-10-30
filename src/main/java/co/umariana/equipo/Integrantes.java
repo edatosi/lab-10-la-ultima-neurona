@@ -28,6 +28,7 @@ public final class Integrantes {
         lista.add(new Tarjeta("F-Hoyos", "Felipe Hoyos", "Gana atraves de tus acciones, nunca por medio de argumentos", "#BF260A"));
         lista.add(new Tarjeta("luihidalgo125-stack", "Luis Hidalgo", "Cree que puedes y ya habras recorrido la mitad del camino", "#bf0a8f"));
         lista.add(new Tarjeta("marcarvajal125-lgtm", "Mario Carvajal", "Todo lo que haces con es fuerso vale la pena", "#3eb7c7"));
+        lista.add(new Tarjeta("yamrosero125-netizen", "Yamid Rosero", "Que todo sea con el corazon :))) ", "#dab009"));
       // >>> AGREGUE SU TARJETA DEBAJO DE ESTA LÍNEA <<<
 
         return lista;
